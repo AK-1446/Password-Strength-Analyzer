@@ -4,27 +4,27 @@ A Java application that checks the strength of a password based on common securi
 
 ## Features
 
-Password Strength Analysis
-Minimum Length Validation
-Uppercase Letter Detection
-Lowercase Letter Detection
-Number Detection
-Special Character Detection
-Password Strength Feedback
-Simple Command Line Interface
+- Password Strength Analysis
+- Minimum Length Validation
+- Uppercase Letter Detection
+- Lowercase Letter Detection
+- Number Detection
+- Special Character Detection
+- Password Strength Feedback
+- Simple Command Line Interface
 
 ## Technologies
 
 Programming Language:
-Java
+- Java
 
 ## Concepts Used:
 
-String Handling
-Conditional Statements
-Regular Expressions
+- String Handling
+- Conditional Statements
+- Regular Expressions
 
 ## Security:
 
-Password Complexity Validation
-Strong Password Recommendations
+- Password Complexity Validation
+- Strong Password Recommendations
