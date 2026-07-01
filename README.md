@@ -1,8 +1,8 @@
-## Password Strength Analyzer
+# Password Strength Analyzer
 
 A Java application that checks the strength of a password based on common security rules. It helps users create stronger and more secure passwords by analyzing different password characteristics.
 
-# Features
+## Features
 
 Password Strength Analysis
 Minimum Length Validation
@@ -13,18 +13,18 @@ Special Character Detection
 Password Strength Feedback
 Simple Command Line Interface
 
-# Technologies
+## Technologies
 
 Programming Language:
 Java
 
-# Concepts Used:
+## Concepts Used:
 
 String Handling
 Conditional Statements
 Regular Expressions
 
-# Security:
+## Security:
 
 Password Complexity Validation
 Strong Password Recommendations
